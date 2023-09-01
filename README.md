@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Deipey Paanchal</h1>
-- 🔭 I’m currently working on a Technical Analysis Project using C# and .NET framework.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
